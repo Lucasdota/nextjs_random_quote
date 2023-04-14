@@ -74,8 +74,8 @@ const GetQuote = () => {
         const pickQuote = document.getElementById("phrase");
         const pickAuthor = document.getElementById("author");
         //fade animation when the quote changes, it comes from tailwind.config.js
-        pickQuote.style.animation = "fade 1.5s ease-in-out running";
-        pickAuthor.style.animation = "fade 1.5s ease-in-out running";
+        pickQuote.style.animation = "fade 1.6s ease-in-out running";
+        pickAuthor.style.animation = "fade 1.6s ease-in-out running";
         setTimeout(() => {
             pickQuote.style.animation = "none";
             pickAuthor.style.animation = "none"
