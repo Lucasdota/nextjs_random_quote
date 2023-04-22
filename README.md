@@ -4,10 +4,10 @@ My first project using Nextjs and TailwindCSS . It is a quote generator that ran
 
 Details:
 
-    - Next.js
-    - TailWindCSS
-    - Animations
-    - Dynamic Twitter Sharing
-    - Font Awesome Icons
-    - Respondive Design
-    
+ - Next.js
+ - TailWindCSS
+ - Animations
+ - Dynamic Twitter Sharing
+ - Font Awesome Icons
+ - Respondive Design
+
