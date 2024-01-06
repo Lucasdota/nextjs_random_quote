@@ -1,13 +1,15 @@
-[Random Quote Generator](https://nextjs-random-quote-lr9xfedy2-lucasdota.vercel.app/)
+## Random Quote Generator
 
-A quote generator that randomly picks a quote from a bank of 14 when the button is clicked.
+## A quote generator that randomly picks a quote from a bank of 14 when the button is clicked.
 
-Features:
+Main features:
 
- - Next.js
+ - Javscript static fetching
  - TailwindCSS
  - Animations
  - Dynamic Twitter Sharing
  - Font Awesome Icons
  - Responsive Design
+
+ Website: [click here](nextjs-random-quote-gamma.vercel.app/)
 
