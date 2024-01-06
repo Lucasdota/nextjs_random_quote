@@ -11,5 +11,5 @@ Main features:
  - Font Awesome Icons
  - Responsive Design
 
- Website: [click here](nextjs-random-quote-gamma.vercel.app/)
+ Website: [click here](https://nextjs-random-quote-gamma.vercel.app/)
 
